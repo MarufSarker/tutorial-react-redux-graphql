@@ -1,0 +1,20 @@
+# React-Redux-GraphQL Tutorial
+
+A simple example to demonstrate the implementation of React-Redux with GraphQL.
+
+Full build process is available on my blog, titled "[Implementing React Redux with GraphQL](https://marufsarker.github.io/blog/posts/2016/05/09/react-redux-with-graphql/)"
+
+### Usage
+
+```
+git clone https://github.com/MarufSarker/tutorial-react-redux-graphql.git
+npm i
+npm start
+```
+
+After successful installation and running, browse to [http://localhost:3000](http://localhost:3000) to view the running application.
+
+### License
+
+This project/codebase is released under [MIT](https://opensource.org/licenses/MIT) license.
+See `LICENSE` file for details.

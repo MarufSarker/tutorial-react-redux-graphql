@@ -1,0 +1,66 @@
+html,
+body {
+  background-color: #E6E5E5;
+}
+
+.appContainer {
+  width: 500px;
+  background-color: #FFFFFF;
+  margin: auto;
+  margin-top: 200px;
+  padding: 30px;
+  box-shadow: 2px 2px 2px 2px #A8A8A8;
+}
+
+.inputContainer {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+.todoInput {
+  width: 60%;
+  height: 30px;
+}
+
+.todoInputButton {
+  width: 20%;
+  height: 36px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #292929;
+  text-shadow: 1px 0px 0px #A8A8A8;
+  padding: 0;
+}
+
+.todoListContainer {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+
+.refetchButton {
+  width: 81%;
+  height: 30px;
+  margin-top: -10px;
+  font-weight: bold;
+  font-size: 17px;
+  color: #292929;
+  text-shadow: 1px 0px 0px #A8A8A8;
+}
+
+.todoList {
+  width: 70%;
+  margin: 25px auto;
+}
+
+.todoList li {
+  font-size: 20px;
+  line-height: 1.2;
+  text-shadow: 1px 0px 0px #A8A8A8;
+  color: #4A3535;
+  font-weight: 900;
+  text-align: left;
+  margin-top: 10px;
+  list-style-type: square;
+}
